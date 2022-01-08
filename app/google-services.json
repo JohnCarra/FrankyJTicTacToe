@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "683322524992",
+    "project_id": "frankyjtictac",
+    "storage_bucket": "frankyjtictac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683322524992:android:b7560b6b407eee1e1d66a5",
+        "android_client_info": {
+          "package_name": "com.example.tictactoeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683322524992-90ufdncsbmgbj32s9jvlgtl52tk19h3p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOl95RWopBkHe2TgoJZs441KCGnIpQ1Ss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683322524992-90ufdncsbmgbj32s9jvlgtl52tk19h3p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
